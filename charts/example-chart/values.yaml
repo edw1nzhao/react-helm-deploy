@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: ezhao7/react-helm-deploy
+  repository: anaisurlichs/react-example-app
   tag: 1.0.0
   pullPolicy: IfNotPresent
 
